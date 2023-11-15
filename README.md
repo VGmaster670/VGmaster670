@@ -4,5 +4,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VGmaster670)](https://git.io/streak-stats)
 
 For anyone wondering what happened to my CS Academy answers repos,
-https://github.com/hey2022/CSA-APCSP-answers/issues/1
 TL;DR I got banned for sharing answers, no I'm not reposting or giving private access
